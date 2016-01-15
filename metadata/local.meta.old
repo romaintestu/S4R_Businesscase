@@ -1,0 +1,98 @@
+[app/ui]
+version = 6.3.0
+modtime = 1448614164.582022000
+
+[app/launcher]
+version = 6.3.0
+modtime = 1448614164.587381000
+
+[indexes/testcar]
+owner = admin
+version = 6.3.0
+modtime = 1448641829.285108000
+
+[props/csv/EXTRACT-drivername%2Cname]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1448643232.470156000
+
+[props/csv/EXTRACT-name%2Cvalue]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1448643033.969683000
+
+[savedsearches/engine%20speed%20distribution]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1448657853.543635000
+
+[views/car_comparison]
+owner = admin
+version = 6.3.0
+modtime = 1448658139.188481000
+
+[savedsearches/pedal%20position%20distribution]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1448658122.572905000
+
+[savedsearches/km_driven%20by%20driver%2Ccar_type]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1448660162.346781000
+
+[views/electric_car_dashboard]
+owner = admin
+version = 6.3.0
+modtime = 1448663403.013792000
+
+[props/host%3A%3Aconnectedcar/EXTRACT-driver]
+version = 6.3.0
+modtime = 1448662093.573590000
+
+[savedsearches/speed%20on%20map]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 6.3.0
+modtime = 1448663383.736912000
+
+[indexes/testcarvoyant]
+owner = admin
+version = 6.3.0
+modtime = 1448963997.512984000
+
+[props/carvoyant_json]
+owner = admin
+version = 6.3.0
+modtime = 1448966439.389515000
+
+[indexes/testcarvoyant2]
+owner = admin
+version = 6.3.0
+modtime = 1448966455.661444000
+
+[props/guillaume]
+owner = admin
+version = 6.3.0
+modtime = 1448969157.904999000
+
+[indexes/testcarvoyant3]
+owner = admin
+version = 6.3.0
+modtime = 1448974654.268845000
+
+[props/carvoyant_extract]
+owner = admin
+version = 6.3.0
+modtime = 1448975822.391952000
