@@ -17,7 +17,7 @@ V}DNPHOTOVX{DA4}VIPA{DAH}1{D91}0110{LTZ}0{VWAY}1{PS}541{F}
 [23-12/15:05:22,682]:** INFO. ** Message flash sent :{SS}A{PS}541{SV}s11{D3G
 }fgs{RS}01{D16}52{D15}10{EE}60{D7W}1{BF0C}df610104{F}
 [23-12/15:05:22,682]:** INFO. ** Maintenance desactivee
-[23-12/15:05:22,682]:** INFO. ** Command: c2 Process: TMP Ctx: 52_SIMU
+[23-12/15:05:22,682]:** INFO. ** Command: c2 Processe: TMP Ctx: 52_SIMU
 [23-12/15:05:22,683]:** INFO. ** ** CLOSE GAP **
 [23-12/15:05:22,724]:Construction classe VX
 [23-12/15:05:22,725]:** INFO. ** Constructeur Emv
