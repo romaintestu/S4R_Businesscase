@@ -15,7 +15,6 @@ V}DNPHOTOVX{DA4}VIPA{DAH}1{D91}0110{LTZ}0{VWAY}1{PS}541{F}
 [23-12/15:05:22,725]:** INFO. ** Loading truncation configuration done.
 [23-12/15:05:22,726]:** INFO. **  START TMP ################################
 [23-12/15:05:22,726]:** INFO. ** [PID      : 9620 ]
-[23-12/15:05:22,726]:** INFO. ** [Montant  : ZZZZZZ ]
 [23-12/15:05:22,726]:** INFO. ** [APP_NAME : CONTACTLESS VX ]
 [23-12/15:05:22,726]:** INFO. ** [VERSION  : 5.4.4.0 ]
 [23-12/15:05:22,726]:** INFO. ** [TA_RRRR  : 52_SIMU ]
@@ -25,7 +24,7 @@ V}DNPHOTOVX{DA4}VIPA{DAH}1{D91}0110{LTZ}0{VWAY}1{PS}541{F}
 [23-12/15:05:22,727]: ** INFO. ** Resultat transaction retraitÈ [e3]
 [23-12/15:05:22,728]: RECUPERATION CRYPTO  MyLPP->Fi_CryptoEmetteurInfData = 00
 [23-12/15:05:22,730]:** INFO. ** RTT: 8000000000
-[23-12/15:05:22,730]:** INFO. ** Paypass CardInformation: YYYY-YYYY-YYYY-YYYY
+[23-12/15:05:22,730]:** INFO. ** Paypass CardInformation: 507100******2753
 [23-12/15:05:23,310]:** INFO. ** [S_INHERIT_CTX] [8000000000:0000]
 [23-12/15:05:23,310]:** INFO. ** TVR: 8000000000
 [23-12/15:05:23,310]:** INFO. ** TSI: 0000

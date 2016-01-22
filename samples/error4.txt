@@ -1,5 +1,0 @@
-[23-12/09:03:59,327]:** INFO. ** ** START GAP **
-[23-12/09:03:59,384]:** INFO. ** Message received from 193.252.39.128
-[23-12/09:03:59,386]:** INFO. ** EFT: Display: F:20, N:E5, P:16, R:0, CAM F:
-24, P:16, R:0
-[23-12/09:03:59,386]:** INFO. ** POS: Display P5

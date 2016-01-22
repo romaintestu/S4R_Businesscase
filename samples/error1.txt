@@ -1,7 +1,5 @@
-[23-12/11:29:51,046]:** INFO. ** New log
-[23-12/11:29:51,046]:** INFO. ** ** START GAP **
-[23-12/11:29:51,047]:** INFO. ** Message received from 193.252.39.128
+[23-12/11:29:51,047]:** INFO. ** Message received from XXX.XXX.XXX.XXX
 [23-12/11:29:51,048]:** INFO. ** EFT: Display: F:20, N:E5, P:16, R:0, CAM F:24, P:16, R:0
 [23-12/11:29:51,048]:** INFO. ** POS: Display P5
 [23-12/11:29:51,048]:<< WARN.>> (2)ID_EFT Identiques : EFT=(541)
-[23-12/11:29:51,049]:<< WARN.>> Erreur Affectation stations sur Reseau Local
+[23-12/11:29:51,049]:<< WARN.>> Error message : ERROR_TO_REPLACE

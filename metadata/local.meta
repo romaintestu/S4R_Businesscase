@@ -1,0 +1,47 @@
+[indexes/meetup_index]
+owner = admin
+version = 6.3.0
+modtime = 1453146440.478015000
+
+[indexes/s4rbusiness]
+version = 6.3.2
+modtime = 1453199630.243847000
+
+[]
+access = read : [ * ], write : [ * ]
+export = system
+version = 6.3.2
+modtime = 1453199773.169302000
+
+[props/paydata]
+version = 6.3.2
+modtime = 1453368460.842292000
+
+[indexes/s4rbusinesserror]
+owner = admin
+version = 6.3.2
+modtime = 1453368258.714795000
+
+[props/paydata/LOOKUP-lookup_magasins]
+export = system
+owner = admin
+version = 6.3.2
+modtime = 1453381395.225011000
+
+[transforms/lookup_magasins]
+export = system
+owner = admin
+version = 6.3.2
+modtime = 1453368509.850417000
+
+[lookups/lookup_magasins.csv]
+export = system
+owner = admin
+version = 6.3.2
+modtime = 1453368529.469036000
+
+[views/transaction_overview]
+export = system
+owner = admin
+version = 6.3.2
+modtime = 1453382162.106226000
