@@ -41,7 +41,15 @@ version = 6.3.2
 modtime = 1453368529.469036000
 
 [views/transaction_overview]
-export = system
+access = read : [ * ], write : [ * ]
+export = none
 owner = admin
 version = 6.3.2
-modtime = 1453382162.106226000
+modtime = 1453471337.465353000
+
+[views/security_overview]
+access = read : [ * ], write : [ * ]
+export = none
+owner = admin
+version = 6.3.2
+modtime = 1453471321.193500000
