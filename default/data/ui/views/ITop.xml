@@ -76,7 +76,7 @@
     <panel>
       <single>
         <search>
-          <query>sourcetype="paydata" |stats count(GAP_StartIP) as in, count(eval(TMP_Action="STOP TMP")) as out |eval ratio=out*100/in|fields ratio</query>
+          <query>sourcetype="paydata" |stats count(eval(TMP_Action="START TMP")) as in, count(eval(TMP_Action="STOP TMP")) as out |eval ratio=out*100/in|fields ratio</query>
           <earliest>0</earliest>
           <latest></latest>
         </search>
