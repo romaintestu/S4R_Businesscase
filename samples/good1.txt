@@ -35,16 +35,12 @@
 [23-12/15:05:27,783]:** INFO. ** [Result:ACCEPTED] [Status:ACCEPTED]
 [23-12/15:05:27,783]:** INFO. ** [S_TRS_RES] [8000000000:0000]
 [23-12/15:05:27,783]:** INFO. ** [Result:ACCEPTED] [Status:ACCEPTED]
-[23-12/15:05:27,784]:** INFO. ** Due to Bulletin13 activation, Bulletin13 truncation method fixed firmly.
 [23-12/15:05:29,335]:** INFO. ** [S_TRS_ACK] [8000000000:0000]
 [23-12/15:05:29,335]:** INFO. ** [Result:ACCEPTED] [Status:ACCEPTED]
-[23-12/15:05:29,335]:** INFO. ** [S_TRS_END] [8000000000:0000]
 [23-12/15:05:29,337]:** INFO. ** [Result:NOT CHECKED] [Status:ACCEPTED]
 [23-12/15:05:29,343]:** INFO. ** Verif:[D:/WHBGT/SALONS/SWIM-V5/PLUGIN/pluginbtmloader.dll][   OK   ]
 [23-12/15:05:29,509]:** INFO. ** Verif:[D:/WHBGT/SALONS/SWIM-V5/PLUGIN/pluginsmcfactorysm.dll][   OK   ]
 [23-12/15:05:29,513]:<< WARN. >> [BTMLoader::methodY] Unable to secure PAN.
 [23-12/15:05:29,514]:** INFO. ** Transaction backup: X|d1039a5591a104dd91426aa035c998724340789a94f10bc01c97f838b43a1a62
-[23-12/15:05:29,516]:** INFO. ** [S_TRS_END] [8000000000:0000]
 [23-12/15:05:29,516]:** INFO. ** [Result:ACCEPTED] [Status:ACCEPTED]
 [23-12/15:05:29,516]:** INFO. **  STOP TMP CONTACTLESS VX ##################
-[23-12/15:05:29,741]:** INFO. ** JWM_SomeThingReceived(): NO_MORE_UINT
